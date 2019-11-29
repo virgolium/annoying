@@ -1,0 +1,19 @@
+{
+  "name": "Anin-Bacot",
+  "version": "1.0.0",
+  "description": "Anin Bacot",
+  "main": "bot.js",
+  "author": "Eanderstaal",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "license": "ISC"
+}
